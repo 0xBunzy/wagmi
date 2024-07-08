@@ -1,10 +1,10 @@
 <br>
 
 <p align="center">
-  <a href="https://wagmi.sh">
+  <a href="https://lasereyesdocs.vercel.app/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-dark.svg">
-      <img alt="wagmi logo" src="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-light.svg" width="auto" height="60">
+      <source media="(prefers-color-scheme: dark)" srcset="./lasereyes.png">
+      <img alt="Laser Eyes" src="./lasereyes.png" width="auto" height="60">
     </picture>
   </a>
 </p>
